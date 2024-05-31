@@ -30,7 +30,7 @@ export default function Weather(props) {
                 <div className="col-3"><div>tue</div><div className="emoji">⛅</div> <div>13° |  15°</div></div>
 
             </div>
-            <footer>This project was coded by  SheCodes and is open-sourced on <a href="www.google.com" target="_blank" rel="nonreferer">GitHub</a> and hosted on <a href="www.google.com" target="_blank" rel="nonreferer">Netlify</a> </footer>
+            <footer>This project was coded by  SheCodes and is open-sourced on <a href="https://github.com/Bernadettechukwuedo/shecodes-weather-react-project" target="_blank" rel="noreferrer">GitHub</a> and hosted on <a href="https://shecode-react-weather-app.netlify.app/" target="_blank" rel="noreferrer">Netlify</a> </footer>
         </div>
 
 
